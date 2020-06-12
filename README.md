@@ -2,6 +2,7 @@
 NUMPY
 
 <code>
+  instllasion <br>
   pip install numpy 
   
   
